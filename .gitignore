@@ -9,4 +9,4 @@ __pycache__/
 *.pt
 *.mp4
 *.db
-.DS_Store
+.DS_Storeruns/
