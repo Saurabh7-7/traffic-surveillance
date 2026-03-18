@@ -1,0 +1,12 @@
+venv/
+models/
+output/
+videos/
+datasets/
+License-Plate-Recognition-4/
+surveillance.db
+__pycache__/
+*.pt
+*.mp4
+*.db
+.DS_Store
